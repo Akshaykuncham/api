@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/"
+             xmlns:tns="http://example.com/user"
+             targetNamespace="http://example.com/user">
+    <!-- WSDL placeholder for the lab SOAP service.
+         Import/use with SoapUI after configuring the service contract. -->
+</definitions>
